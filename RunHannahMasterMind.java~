@@ -1,9 +1,0 @@
-//mastermind driver program
-public class RunHannahMasterMind
-  
-  {
-  public static void main (String[] agrs) //main method to run the mastermind class
-  {
-    HannahMasterMind program = new HannahMasterMind ();
-  }
-}
